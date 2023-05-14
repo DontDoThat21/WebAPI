@@ -8,6 +8,6 @@ namespace WebAPI.Models
     public class Department
     {
         public int DepartmentId { get; set; }
-        public int DepartmentName { get; set; }
+        public string DepartmentName { get; set; }
     }
 }
