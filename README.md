@@ -1,7 +1,6 @@
 Compatible (well, as of 6/17/2024 still was) with https://github.com/DontDoThat21/Angular16 Angular basic demo application for the management of Employees and their Departments with a simple SQL Server DB powering this Legacy .NET FW API's datas.
 
 Want to use .NET Core API with Ang16 (.NET 8) instead?
-
 See: https://github.com/DontDoThat21/WebAPI.NET-Core
 
 Table creation SQL (SQL Server): 
