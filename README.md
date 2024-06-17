@@ -20,11 +20,11 @@ Table creation SQL (SQL Server):
 
 SELECT TOP (1000) [DepartmentId]
       ,[DepartmentName]
-  FROM [EmployeeAppDb].[dbo].[Departments]
+  FROM [AngularNETCoreEmployeesDB].[dbo].[Departments]
 
 SELECT TOP (1000) [EmployeeId]
       ,[EmployeeName]
       ,[Department]
       ,[DateJoined]
       ,[PhotoFileName]
-  FROM [EmployeeAppDb].[dbo].[Employees]
+  FROM [AngularNETCoreEmployeesDB].[dbo].[Employees]
